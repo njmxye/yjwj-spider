@@ -24,7 +24,8 @@
 
 - 运行爬虫脚本：
 - 安装依赖：
-- 在文件中填写自己的cookies（网易uu账号登录以后会生成cookies，复制到headers中即可）：
+- 在文件中填写自己的cookies（网易uu账号登录以后会生成cookies，复制到headers中即可）
+这里我详细说一下，具体步骤就是先进入https://record.uu.163.com/naraka/query，然后点立即登录，然后就会跳转到uu加速器的登录接口，登陆后再次进入https://record.uu.163.com/naraka/query按f12在网络里的servers的cookies项就可以
 - 运行主程序：主程序为clean.py,然后输入需要查询的名字（原汁原味，不要有特殊符号，不要多打空格之类的）
 
 ## 📈 数据展示
